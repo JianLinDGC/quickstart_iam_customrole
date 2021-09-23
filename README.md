@@ -29,6 +29,13 @@ source venv/bin/activate
 pip install --upgrade google-api-python-client google-auth google-auth-httplib2
 ```
 
+## Main
+
+```bash
+# Execute exemples in main
+python main.py
+```
+
 ## Documentation
 
 Link to the IAM API documentation: https://cloud.google.com/iam/docs/reference/rest
