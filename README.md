@@ -32,7 +32,7 @@ pip install --upgrade google-api-python-client google-auth google-auth-httplib2
 ## Main
 
 ```bash
-# Execute exemples in main
+# Execute examples in main
 python main.py
 ```
 
